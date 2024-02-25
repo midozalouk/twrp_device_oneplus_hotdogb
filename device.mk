@@ -38,7 +38,7 @@ AB_OTA_PARTITIONS += \
     vbmeta_system
 
 # dynamic partition stuff
-PRODUCT_USE_DYNAMIC_PARTITIONS := true
+# PRODUCT_USE_DYNAMIC_PARTITIONS := true
 
 # Exclude Apex
 TW_EXCLUDE_APEX := true
